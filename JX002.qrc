@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/JX002">
+        <file>UNIT.ico</file>
+        <file>Res/add.png</file>
+        <file>Res/sub.png</file>
+        <file>Res/Play.bmp</file>
+    </qresource>
+</RCC>

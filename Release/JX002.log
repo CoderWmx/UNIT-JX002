@@ -1,0 +1,1 @@
+﻿C:\Users\wmx\AppData\Local\QtMsBuild\qt_vars.targets(68,5): error : There's no Qt version assigned to project JX002.vcxproj for configuration Release/Win32. Please assign a Qt installation in 'Qt Project Settings'.
